@@ -1,45 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Day2</title>
-      <link href="/2020/03/14/Day2/"/>
-      <url>/2020/03/14/Day2/</url>
-      
-        <content type="html"><![CDATA[<p>【day 2】<br>      硬生生在周末下午的时间里凑出2小时在b站直播了《不是今晚》，因为这游戏本身很无聊，有需要长时间保持注意力集中，和观众的互动没有特别的好。虽然直播效果不佳，最后还是拼凑到了七百多人气，可是结果还是不尽人意。原来以为自己调试好的变声器还是不能用。<br>     感谢alpha和toyocolin这两位朋友的观赏，也收到了许多你们的礼物，谢谢。<br>     是时候该写一些作业了。<br>     （水完了第二篇）。<br>      欢迎各位小伙伴来b站找我。我的uid是20133545.</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Day2</title>
+    <url>/2020/03/14/Day2/</url>
+    <content><![CDATA[<p>【day 2】<br>      硬生生在周末下午的时间里凑出2小时在b站直播了《不是今晚》，因为这游戏本身很无聊，有需要长时间保持注意力集中，和观众的互动没有特别的好。虽然直播效果不佳，最后还是拼凑到了七百多人气，可是结果还是不尽人意。原来以为自己调试好的变声器还是不能用。<br>     感谢alpha和toyocolin这两位朋友的观赏，也收到了许多你们的礼物，谢谢。<br>     是时候该写一些作业了。<br>     （水完了第二篇）。<br>      欢迎各位小伙伴来b站找我。我的uid是20133545.</p>
+]]></content>
       <categories>
-          
-          <category> 活动日志 </category>
-          
+        <category>活动日志</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> dairy </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>你好！欢迎来到Ayafu的空想乡*★,°*:.☆(￣▽￣)/$:*.°★* 。</title>
-      <link href="/2020/03/12/hello-world/"/>
-      <url>/2020/03/12/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>空想无罪，逃避有理；想成为医生；尽可能记下每一天。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>dairy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你好！欢迎来到Ayafu的空想乡*★,°*:.☆(￣▽￣)/$:*.°★* 。</title>
+    <url>/2020/03/12/hello-world/</url>
+    <content><![CDATA[<p>空想无罪，逃避有理；想成为医生；尽可能记下每一天。</p>
+]]></content>
+  </entry>
 </search>
